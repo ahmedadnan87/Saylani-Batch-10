@@ -1,0 +1,10 @@
+ul>li{
+    display: inline-block;
+    width: 200px;
+}
+ul{
+    background-color:aqua ;
+    position: sticky;
+    top: 0px;
+}
+
